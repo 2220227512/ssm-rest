@@ -1,0 +1,477 @@
+2018-01-24 20:24:48,849 [main] [org.apache.http.client.protocol.ResponseProcessCookies]-[DEBUG] Cookie accepted [__DAYU_PP="Yzrubf7NarBMbVbbY6NN2d90854d7150", version:0, domain:hero.i8wan.com, path:/, expiry:Thu Jun 10 07:59:59 CST 2021]
+2018-01-24 20:24:48,850 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-192 << "[0xe6][0xb4][0xbb][0xe5][0x8a][0xa8]</a><br/>[\n]"
+2018-01-24 20:24:48,850 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-192 << "*[0xe5][0xbd][0x93][0xe5][0x89][0x8d][0xe4][0xb8][0xba][0xe5][0xae][0x9d][0xe7][0x89][0xa9][0xe5][0x8f][0x8c][0xe5][0x80][0x8d][0xe7][0x8a][0xb6][0xe6][0x80][0x81][0xef][0xbc][0x8c][0xe9][0xa2][0x86][0xe5][0x8f][0x96][0xe6][0x97][0xb6][0xe5][0x8f][0xaf][0xe8][0x8e][0xb7][0xe5][0xbe][0x97][0xe5][0x8f][0x8c][0xe5][0x80][0x8d][0xe6][0x94][0xb6][0xe7][0x9b][0x8a]<br/>[\n]"
+2018-01-24 20:24:48,850 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-192 << "<b>[0xe7][0x8e][0x84][0xe5][0xa4][0xa9][0xe5][0xa1][0x94]</b>(Lv4)<br/>[\n]"
+2018-01-24 20:24:48,850 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-192 << "[0xe7][0xbb][0x8f][0xe9][0xaa][0x8c]:98/250<br/>[\n]"
+2018-01-24 20:24:48,850 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-192 << "<a href="g?k=kC8wJu24&amp;p=1&amp;aid=60&amp;rn=15086&amp;ts=1&amp;act=1">[0xe9][0xa2][0x86][0xe5][0x8f][0x96]845629[0xe7][0xbb][0x8f][0xe9][0xaa][0x8c]</a><br/>[\n]"
+2018-01-24 20:24:48,850 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-192 << "<b>[0xe7][0x82][0xbc][0xe4][0xb8][0xb9][0xe7][0x82][0x89]</b>(Lv4)<br/>[\n]"
+2018-01-24 20:24:48,850 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-192 << "[0xe7][0xbb][0x8f][0xe9][0xaa][0x8c]:44/250<br/>[\n]"
+2018-01-24 20:24:48,850 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-192 << "<a href="g?k=kC8wJu24&amp;p=1&amp;aid=60&amp;rn=15086&amp;ts=2&amp;act=1">[0xe9][0xa2][0x86][0xe5][0x8f][0x96]14300[0xe6][0xbd][0x9c][0xe8][0x83][0xbd]</a><br/>[\n]"
+2018-01-24 20:24:48,851 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-192 << "<b>[0xe6][0x91][0x87][0xe9][0x92][0xb1][0xe6][0xa0][0x91]</b>(Lv6)<br/>[\n]"
+2018-01-24 20:24:48,851 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-192 << "[0xe7][0xbb][0x8f][0xe9][0xaa][0x8c]:60/490<br/>[\n]"
+2018-01-24 20:24:48,851 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-192 << "<a href="g?k=kC8wJu24&amp;p=1&amp;aid=60&amp;rn=15086&amp;ts=3&amp;act=1">[0xe9][0xa2][0x86][0xe5][0x8f][0x96]55000[0xe9][0x93][0xb6][0xe7][0xa5][0xa8]</a><br/>[\n]"
+2018-01-24 20:24:48,851 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-192 << "<b>[0xe5][0xb4][0x86][0xe5][0xb3][0x92][0xe5][0x8d][0xb0]</b>:<a href="g?k=kC8wJu24&amp;p=1&amp;aid=60&amp;rn=15086&amp;act=1&amp;ts=6">[0xe9][0xa2][0x86][0xe5][0x8f][0x96]</a>([0xe5][0xa5][0xb3][0xe5][0xa8][0xb2][0xe7][0x9f][0xb3]x36)<br/>[\n]"
+2018-01-24 20:24:48,852 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-192 << "</div>[\r][\n]"
+2018-01-24 20:24:48,852 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-192 << "<div id="game-footer">[\r][\n]"
+2018-01-24 20:24:48,852 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-192 << "<a href="g?k=kC8wJu24&amp;p=1&amp;aid=3&amp;rn=15086">[0xe8][0xbf][0x94][0xe5][0x9b][0x9e][0xe6][0xb8][0xb8][0xe6][0x88][0x8f]</a><br/>[\n]"
+2018-01-24 20:24:48,852 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-192 << "[0xe5][0xbd][0x93][0xe5][0x89][0x8d][0xe6][0x97][0xb6][0xe9][0x97][0xb4](20:24)<br/>[\n]"
+2018-01-24 20:24:48,852 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-192 << "</div>[\r][\n]"
+2018-01-24 20:24:48,852 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-192 << "</body>[\r][\n]"
+2018-01-24 20:24:48,852 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-192 << "</html>[\r][\n]"
+2018-01-24 20:24:48,852 [main] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Connection [id: 192][route: {}->http://hero.i8wan.com:80] can be kept alive indefinitely
+2018-01-24 20:24:48,852 [main] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Connection released: [id: 192][route: {}->http://hero.i8wan.com:80][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 20]
+2018-01-24 20:24:48,853 [main] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Connection manager is shutting down
+2018-01-24 20:24:48,853 [main] [org.apache.http.impl.conn.DefaultManagedHttpClientConnection]-[DEBUG] http-outgoing-192: Close connection
+2018-01-24 20:24:48,853 [main] [org.apache.http.impl.conn.DefaultManagedHttpClientConnection]-[DEBUG] http-outgoing-192: Close connection
+2018-01-24 20:24:48,853 [main] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Connection manager shut down
+2018-01-24 20:24:49,361 [main] [org.apache.http.client.protocol.RequestAddCookies]-[DEBUG] CookieSpec selected: best-match
+2018-01-24 20:24:49,361 [main] [org.apache.http.client.protocol.RequestAuthCache]-[DEBUG] Auth cache not set in the context
+2018-01-24 20:24:49,361 [main] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Connection request: [route: {}->http://hero.i8wan.com:80][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2018-01-24 20:24:49,362 [main] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Connection leased: [id: 193][route: {}->http://hero.i8wan.com:80][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2018-01-24 20:24:49,362 [main] [org.apache.http.impl.execchain.MainClientExec]-[DEBUG] Opening connection {}->http://hero.i8wan.com:80
+2018-01-24 20:24:49,362 [main] [org.apache.http.impl.conn.HttpClientConnectionOperator]-[DEBUG] Connecting to hero.i8wan.com/118.89.206.21:80
+2018-01-24 20:24:49,419 [main] [org.apache.http.impl.conn.HttpClientConnectionOperator]-[DEBUG] Connection established 192.168.0.102:50223<->118.89.206.21:80
+2018-01-24 20:24:49,419 [main] [org.apache.http.impl.execchain.MainClientExec]-[DEBUG] Executing request GET /x00/g?k=kC8wJu24&p=1&aid=60&rn=13164&ts=3&act=1 HTTP/1.1
+2018-01-24 20:24:49,419 [main] [org.apache.http.impl.execchain.MainClientExec]-[DEBUG] Target auth state: UNCHALLENGED
+2018-01-24 20:24:49,419 [main] [org.apache.http.impl.execchain.MainClientExec]-[DEBUG] Proxy auth state: UNCHALLENGED
+2018-01-24 20:24:49,419 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-193 >> GET /x00/g?k=kC8wJu24&p=1&aid=60&rn=13164&ts=3&act=1 HTTP/1.1
+2018-01-24 20:24:49,419 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-193 >> Host: hero.i8wan.com
+2018-01-24 20:24:49,419 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-193 >> Connection: Keep-Alive
+2018-01-24 20:24:49,419 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-193 >> User-Agent: Apache-HttpClient/4.3.5 (java 1.5)
+2018-01-24 20:24:49,419 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-193 >> Accept-Encoding: gzip,deflate
+2018-01-24 20:24:49,419 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 >> "GET /x00/g?k=kC8wJu24&p=1&aid=60&rn=13164&ts=3&act=1 HTTP/1.1[\r][\n]"
+2018-01-24 20:24:49,419 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 >> "Host: hero.i8wan.com[\r][\n]"
+2018-01-24 20:24:49,419 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 >> "Connection: Keep-Alive[\r][\n]"
+2018-01-24 20:24:49,419 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 >> "User-Agent: Apache-HttpClient/4.3.5 (java 1.5)[\r][\n]"
+2018-01-24 20:24:49,420 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2018-01-24 20:24:49,420 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 >> "[\r][\n]"
+2018-01-24 20:24:49,491 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 << "HTTP/1.1 200 OK[\r][\n]"
+2018-01-24 20:24:49,491 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 << "X-Proxy: dayu-proxy[\r][\n]"
+2018-01-24 20:24:49,491 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 << "Date: Wed, 24 Jan 2018 12:24:49 GMT[\r][\n]"
+2018-01-24 20:24:49,491 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 << "Content-Type: application/xhtml+xml;charset=utf-8[\r][\n]"
+2018-01-24 20:24:49,491 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 << "Content-Length: 1948[\r][\n]"
+2018-01-24 20:24:49,491 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 << "X-DAYU-UUID: D7PR9004606E80854002B71EFA179CBEF988[\r][\n]"
+2018-01-24 20:24:49,491 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 << "Connection: keep-alive[\r][\n]"
+2018-01-24 20:24:49,491 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 << "Set-Cookie: __DAYU_PP=ayNb22uffNeAEFR23veY2d90854d168d; Expires=Wed, 09 Jun 2021 23:59:59 GMT; Path=/[\r][\n]"
+2018-01-24 20:24:49,491 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 << "Pragma: No-cache[\r][\n]"
+2018-01-24 20:24:49,491 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 << "Cache-Control: no-cache, no-store[\r][\n]"
+2018-01-24 20:24:49,491 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 << "Expires: Thu, 01 Jan 1970 00:00:00 GMT[\r][\n]"
+2018-01-24 20:24:49,491 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 << "[\r][\n]"
+2018-01-24 20:24:49,491 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 << "<?xml version="1.0" encoding="UTF-8"?>[\r][\n]"
+2018-01-24 20:24:49,491 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 << "<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">[\r][\n]"
+2018-01-24 20:24:49,491 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 << "<html xmlns="http://www.w3.org/1999/xhtml">[\r][\n]"
+2018-01-24 20:24:49,492 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 << "<head>[\r][\n]"
+2018-01-24 20:24:49,492 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 << "<title>[0xe8][0x8b][0xb1][0xe9][0x9b][0x84]</title>[\r][\n]"
+2018-01-24 20:24:49,492 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 << "<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>[\r][\n]"
+2018-01-24 20:24:49,492 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 << "<meta name="viewport" content="width=device-width; initial-scale=1.0; minimum-scale=1.0; maximum-scale=2.0"/>[\r][\n]"
+2018-01-24 20:24:49,492 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 << "<meta name="MobileOptimized" content="240"/>[\r][\n]"
+2018-01-24 20:24:49,492 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 << "<meta name="format-detection" content="telephone=no" />[\r][\n]"
+2018-01-24 20:24:49,492 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 << "<link href="http://122.152.203.88:8070/entry/css/xkx.css" type="text/css" rel="stylesheet"/>[\r][\n]"
+2018-01-24 20:24:49,492 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 << "</head>[\r][\n]"
+2018-01-24 20:24:49,492 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 << "<body>[\r][\n]"
+2018-01-24 20:24:49,492 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 << "<div id="game-title">[\r][\n]"
+2018-01-24 20:24:49,492 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 << "[0xe5][0xae][0x9d][0xe7][0x89][0xa9]<br/></div>[\r][\n]"
+2018-01-24 20:24:49,492 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 << "<div id="game-body">[\r][\n]"
+2018-01-24 20:24:49,492 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 << "<a href="g?k=kC8wJu24&amp;p=1&amp;aid=95&amp;rn=10595">[0xe6][0xb6][0x88]1</a> <a href="g?k=kC8wJu24&amp;p=1&amp;aid=90&amp;rn=10595">[0xe4][0xbd][0x93]</a> <a href="g?k=kC8wJu24&amp;p=1&amp;aid=41&amp;rn=10595">[0xe6][0xb4][0xbb]1</a><br/>[\n]"
+2018-01-24 20:24:49,492 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 << "<b>*[0xe9][0x93][0xb6][0xe7][0xa5][0xa8]+110000</b><br/>[\n]"
+2018-01-24 20:24:49,492 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 << "<b>*[0xe6][0x91][0x87][0xe9][0x92][0xb1][0xe6][0xa0][0x91][0xe7][0xbb][0x8f][0xe9][0xaa][0x8c]+2</b><br/>[\n]"
+2018-01-24 20:24:49,492 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 << "<a href="g?k=kC8wJu24&amp;p=1&amp;aid=55&amp;rn=10595">[0xe4][0xbb][0xbb][0xe5][0x8a][0xa1]</a> | <a href="g?k=kC8wJu24&amp;p=1&amp;aid=62&amp;rn=10595">[0xe4][0xbf][0xae][0xe7][0x82][0xbc]</a> | [0xe5][0xae][0x9d][0xe7][0x89][0xa9] | <a href="g?k=kC8wJu24&amp;p=1&amp;aid=800&amp;rn=10595">"
+2018-01-24 20:24:49,492 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-193 << HTTP/1.1 200 OK
+2018-01-24 20:24:49,492 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-193 << X-Proxy: dayu-proxy
+2018-01-24 20:24:49,492 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-193 << Date: Wed, 24 Jan 2018 12:24:49 GMT
+2018-01-24 20:24:49,492 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-193 << Content-Type: application/xhtml+xml;charset=utf-8
+2018-01-24 20:24:49,492 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-193 << Content-Length: 1948
+2018-01-24 20:24:49,492 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-193 << X-DAYU-UUID: D7PR9004606E80854002B71EFA179CBEF988
+2018-01-24 20:24:49,492 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-193 << Connection: keep-alive
+2018-01-24 20:24:49,492 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-193 << Set-Cookie: __DAYU_PP=ayNb22uffNeAEFR23veY2d90854d168d; Expires=Wed, 09 Jun 2021 23:59:59 GMT; Path=/
+2018-01-24 20:24:49,492 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-193 << Pragma: No-cache
+2018-01-24 20:24:49,492 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-193 << Cache-Control: no-cache, no-store
+2018-01-24 20:24:49,492 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-193 << Expires: Thu, 01 Jan 1970 00:00:00 GMT
+2018-01-24 20:24:49,493 [main] [org.apache.http.impl.execchain.MainClientExec]-[DEBUG] Connection can be kept alive indefinitely
+2018-01-24 20:24:49,493 [main] [org.apache.http.client.protocol.ResponseProcessCookies]-[DEBUG] Cookie accepted [__DAYU_PP="ayNb22uffNeAEFR23veY2d90854d168d", version:0, domain:hero.i8wan.com, path:/, expiry:Thu Jun 10 07:59:59 CST 2021]
+2018-01-24 20:24:49,493 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 << "[0xe6][0xb4][0xbb][0xe5][0x8a][0xa8]</a><br/>[\n]"
+2018-01-24 20:24:49,493 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 << "*[0xe5][0xbd][0x93][0xe5][0x89][0x8d][0xe4][0xb8][0xba][0xe5][0xae][0x9d][0xe7][0x89][0xa9][0xe5][0x8f][0x8c][0xe5][0x80][0x8d][0xe7][0x8a][0xb6][0xe6][0x80][0x81][0xef][0xbc][0x8c][0xe9][0xa2][0x86][0xe5][0x8f][0x96][0xe6][0x97][0xb6][0xe5][0x8f][0xaf][0xe8][0x8e][0xb7][0xe5][0xbe][0x97][0xe5][0x8f][0x8c][0xe5][0x80][0x8d][0xe6][0x94][0xb6][0xe7][0x9b][0x8a]<br/>[\n]"
+2018-01-24 20:24:49,493 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 << "<b>[0xe7][0x8e][0x84][0xe5][0xa4][0xa9][0xe5][0xa1][0x94]</b>(Lv4)<br/>[\n]"
+2018-01-24 20:24:49,493 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 << "[0xe7][0xbb][0x8f][0xe9][0xaa][0x8c]:98/250<br/>[\n]"
+2018-01-24 20:24:49,493 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 << "<a href="g?k=kC8wJu24&amp;p=1&amp;aid=60&amp;rn=10595&amp;ts=1&amp;act=1">[0xe9][0xa2][0x86][0xe5][0x8f][0x96]845629[0xe7][0xbb][0x8f][0xe9][0xaa][0x8c]</a><br/>[\n]"
+2018-01-24 20:24:49,493 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 << "<b>[0xe7][0x82][0xbc][0xe4][0xb8][0xb9][0xe7][0x82][0x89]</b>(Lv4)<br/>[\n]"
+2018-01-24 20:24:49,493 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 << "[0xe7][0xbb][0x8f][0xe9][0xaa][0x8c]:44/250<br/>[\n]"
+2018-01-24 20:24:49,493 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 << "<a href="g?k=kC8wJu24&amp;p=1&amp;aid=60&amp;rn=10595&amp;ts=2&amp;act=1">[0xe9][0xa2][0x86][0xe5][0x8f][0x96]14300[0xe6][0xbd][0x9c][0xe8][0x83][0xbd]</a><br/>[\n]"
+2018-01-24 20:24:49,493 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 << "<b>[0xe6][0x91][0x87][0xe9][0x92][0xb1][0xe6][0xa0][0x91]</b>(Lv6)<br/>[\n]"
+2018-01-24 20:24:49,493 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 << "[0xe7][0xbb][0x8f][0xe9][0xaa][0x8c]:62/490<br/>[\n]"
+2018-01-24 20:24:49,493 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 << "<a href="g?k=kC8wJu24&amp;p=1&amp;aid=60&amp;rn=10595&amp;ts=3&amp;act=1">[0xe9][0xa2][0x86][0xe5][0x8f][0x96]55000[0xe9][0x93][0xb6][0xe7][0xa5][0xa8]</a><br/>[\n]"
+2018-01-24 20:24:49,493 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 << "<b>[0xe5][0xb4][0x86][0xe5][0xb3][0x92][0xe5][0x8d][0xb0]</b>:<a href="g?k=kC8wJu24&amp;p=1&amp;aid=60&amp;rn=10595&amp;act=1&amp;ts=6">[0xe9][0xa2][0x86][0xe5][0x8f][0x96]</a>([0xe5][0xa5][0xb3][0xe5][0xa8][0xb2][0xe7][0x9f][0xb3]x36)<br/>[\n]"
+2018-01-24 20:24:49,493 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 << "</div>[\r][\n]"
+2018-01-24 20:24:49,493 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 << "<div id="game-footer">[\r][\n]"
+2018-01-24 20:24:49,493 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 << "<a href="g?k=kC8wJu24&amp;p=1&amp;aid=3&amp;rn=10595">[0xe8][0xbf][0x94][0xe5][0x9b][0x9e][0xe6][0xb8][0xb8][0xe6][0x88][0x8f]</a><br/>[\n]"
+2018-01-24 20:24:49,494 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 << "[0xe5][0xbd][0x93][0xe5][0x89][0x8d][0xe6][0x97][0xb6][0xe9][0x97][0xb4](20:24)<br/>[\n]"
+2018-01-24 20:24:49,494 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 << "</div>[\r][\n]"
+2018-01-24 20:24:49,494 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 << "</body>[\r][\n]"
+2018-01-24 20:24:49,494 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-193 << "</html>[\r][\n]"
+2018-01-24 20:24:49,494 [main] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Connection [id: 193][route: {}->http://hero.i8wan.com:80] can be kept alive indefinitely
+2018-01-24 20:24:49,494 [main] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Connection released: [id: 193][route: {}->http://hero.i8wan.com:80][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 20]
+2018-01-24 20:24:49,494 [main] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Connection manager is shutting down
+2018-01-24 20:24:49,494 [main] [org.apache.http.impl.conn.DefaultManagedHttpClientConnection]-[DEBUG] http-outgoing-193: Close connection
+2018-01-24 20:24:49,494 [main] [org.apache.http.impl.conn.DefaultManagedHttpClientConnection]-[DEBUG] http-outgoing-193: Close connection
+2018-01-24 20:24:49,494 [main] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Connection manager shut down
+2018-01-24 20:24:50,012 [main] [org.apache.http.client.protocol.RequestAddCookies]-[DEBUG] CookieSpec selected: best-match
+2018-01-24 20:24:50,012 [main] [org.apache.http.client.protocol.RequestAuthCache]-[DEBUG] Auth cache not set in the context
+2018-01-24 20:24:50,012 [main] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Connection request: [route: {}->http://hero.i8wan.com:80][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2018-01-24 20:24:50,012 [main] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Connection leased: [id: 194][route: {}->http://hero.i8wan.com:80][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2018-01-24 20:24:50,012 [main] [org.apache.http.impl.execchain.MainClientExec]-[DEBUG] Opening connection {}->http://hero.i8wan.com:80
+2018-01-24 20:24:50,013 [main] [org.apache.http.impl.conn.HttpClientConnectionOperator]-[DEBUG] Connecting to hero.i8wan.com/118.89.206.21:80
+2018-01-24 20:24:50,074 [main] [org.apache.http.impl.conn.HttpClientConnectionOperator]-[DEBUG] Connection established 192.168.0.102:50224<->118.89.206.21:80
+2018-01-24 20:24:50,074 [main] [org.apache.http.impl.execchain.MainClientExec]-[DEBUG] Executing request GET /x00/g?k=kC8wJu24&p=1&aid=60&rn=13164&ts=3&act=1 HTTP/1.1
+2018-01-24 20:24:50,074 [main] [org.apache.http.impl.execchain.MainClientExec]-[DEBUG] Target auth state: UNCHALLENGED
+2018-01-24 20:24:50,075 [main] [org.apache.http.impl.execchain.MainClientExec]-[DEBUG] Proxy auth state: UNCHALLENGED
+2018-01-24 20:24:50,075 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-194 >> GET /x00/g?k=kC8wJu24&p=1&aid=60&rn=13164&ts=3&act=1 HTTP/1.1
+2018-01-24 20:24:50,075 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-194 >> Host: hero.i8wan.com
+2018-01-24 20:24:50,075 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-194 >> Connection: Keep-Alive
+2018-01-24 20:24:50,075 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-194 >> User-Agent: Apache-HttpClient/4.3.5 (java 1.5)
+2018-01-24 20:24:50,075 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-194 >> Accept-Encoding: gzip,deflate
+2018-01-24 20:24:50,075 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 >> "GET /x00/g?k=kC8wJu24&p=1&aid=60&rn=13164&ts=3&act=1 HTTP/1.1[\r][\n]"
+2018-01-24 20:24:50,075 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 >> "Host: hero.i8wan.com[\r][\n]"
+2018-01-24 20:24:50,075 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 >> "Connection: Keep-Alive[\r][\n]"
+2018-01-24 20:24:50,076 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 >> "User-Agent: Apache-HttpClient/4.3.5 (java 1.5)[\r][\n]"
+2018-01-24 20:24:50,076 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2018-01-24 20:24:50,076 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 >> "[\r][\n]"
+2018-01-24 20:24:50,144 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 << "HTTP/1.1 200 OK[\r][\n]"
+2018-01-24 20:24:50,144 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 << "X-Proxy: dayu-proxy[\r][\n]"
+2018-01-24 20:24:50,145 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 << "Date: Wed, 24 Jan 2018 12:24:50 GMT[\r][\n]"
+2018-01-24 20:24:50,145 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 << "Content-Type: application/xhtml+xml;charset=utf-8[\r][\n]"
+2018-01-24 20:24:50,145 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 << "Content-Length: 1961[\r][\n]"
+2018-01-24 20:24:50,145 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 << "X-DAYU-UUID: D7PR14F93FAE87A84744A3ADCA94FF14535C[\r][\n]"
+2018-01-24 20:24:50,145 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 << "Connection: keep-alive[\r][\n]"
+2018-01-24 20:24:50,145 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 << "Set-Cookie: __DAYU_PP=NnuUryQBabYUqvqizj2B2d90854d092e; Expires=Wed, 09 Jun 2021 23:59:59 GMT; Path=/[\r][\n]"
+2018-01-24 20:24:50,145 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 << "Pragma: No-cache[\r][\n]"
+2018-01-24 20:24:50,145 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 << "Cache-Control: no-cache, no-store[\r][\n]"
+2018-01-24 20:24:50,145 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 << "Expires: Thu, 01 Jan 1970 00:00:00 GMT[\r][\n]"
+2018-01-24 20:24:50,145 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 << "[\r][\n]"
+2018-01-24 20:24:50,145 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 << "<?xml version="1.0" encoding="UTF-8"?>[\r][\n]"
+2018-01-24 20:24:50,145 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 << "<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">[\r][\n]"
+2018-01-24 20:24:50,145 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 << "<html xmlns="http://www.w3.org/1999/xhtml">[\r][\n]"
+2018-01-24 20:24:50,145 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 << "<head>[\r][\n]"
+2018-01-24 20:24:50,145 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 << "<title>[0xe8][0x8b][0xb1][0xe9][0x9b][0x84]</title>[\r][\n]"
+2018-01-24 20:24:50,145 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 << "<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>[\r][\n]"
+2018-01-24 20:24:50,146 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 << "<meta name="viewport" content="width=device-width; initial-scale=1.0; minimum-scale=1.0; maximum-scale=2.0"/>[\r][\n]"
+2018-01-24 20:24:50,146 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 << "<meta name="MobileOptimized" content="240"/>[\r][\n]"
+2018-01-24 20:24:50,146 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 << "<meta name="format-detection" content="telephone=no" />[\r][\n]"
+2018-01-24 20:24:50,146 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 << "<link href="http://122.152.203.88:8070/entry/css/xkx.css" type="text/css" rel="stylesheet"/>[\r][\n]"
+2018-01-24 20:24:50,146 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 << "</head>[\r][\n]"
+2018-01-24 20:24:50,146 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 << "<body>[\r][\n]"
+2018-01-24 20:24:50,146 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 << "<div id="game-title">[\r][\n]"
+2018-01-24 20:24:50,146 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 << "[0xe5][0xae][0x9d][0xe7][0x89][0xa9]<br/></div>[\r][\n]"
+2018-01-24 20:24:50,146 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 << "<div id="game-body">[\r][\n]"
+2018-01-24 20:24:50,146 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 << "<a href="g?k=kC8wJu24&amp;p=1&amp;aid=95&amp;rn=19081">[0xe6][0xb6][0x88]1</a> <a href="g?k=kC8wJu24&amp;p=1&amp;aid=90&amp;rn=19081">[0xe4][0xbd][0x93]</a> <a href="g?k=kC8wJu24&amp;p=1&amp;aid=41&amp;rn=19081">[0xe6][0xb4][0xbb]1</a><br/>[\n]"
+2018-01-24 20:24:50,146 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 << "<b>*[0xe9][0x93][0xb6][0xe7][0xa5][0xa8]+110000</b><br/>[\n]"
+2018-01-24 20:24:50,146 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 << "<b>*[0xe6][0x91][0x87][0xe9][0x92][0xb1][0xe6][0xa0][0x91][0xe7][0xbb][0x8f][0xe9][0xaa][0x8c]+2</b><br/>[\n]"
+2018-01-24 20:24:50,146 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 << "<a href="g?k=kC8wJu24&amp;p=1&amp;aid=55&amp;rn=19081">[0xe4][0xbb][0xbb][0xe5][0x8a][0xa1]</a> | <a href="g?k=kC8wJu24&amp;p=1&amp;aid=62&amp;rn=19081">[0xe4][0xbf][0xae][0xe7][0x82][0xbc]</a> | [0xe5][0xae][0x9d][0xe7][0x89][0xa9] | <a href="g?k=kC8wJu24&amp;p=1&amp;aid=800&amp;rn=19081">"
+2018-01-24 20:24:50,147 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-194 << HTTP/1.1 200 OK
+2018-01-24 20:24:50,147 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-194 << X-Proxy: dayu-proxy
+2018-01-24 20:24:50,147 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-194 << Date: Wed, 24 Jan 2018 12:24:50 GMT
+2018-01-24 20:24:50,147 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-194 << Content-Type: application/xhtml+xml;charset=utf-8
+2018-01-24 20:24:50,147 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-194 << Content-Length: 1961
+2018-01-24 20:24:50,147 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-194 << X-DAYU-UUID: D7PR14F93FAE87A84744A3ADCA94FF14535C
+2018-01-24 20:24:50,147 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-194 << Connection: keep-alive
+2018-01-24 20:24:50,147 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-194 << Set-Cookie: __DAYU_PP=NnuUryQBabYUqvqizj2B2d90854d092e; Expires=Wed, 09 Jun 2021 23:59:59 GMT; Path=/
+2018-01-24 20:24:50,147 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-194 << Pragma: No-cache
+2018-01-24 20:24:50,148 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-194 << Cache-Control: no-cache, no-store
+2018-01-24 20:24:50,148 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-194 << Expires: Thu, 01 Jan 1970 00:00:00 GMT
+2018-01-24 20:24:50,148 [main] [org.apache.http.impl.execchain.MainClientExec]-[DEBUG] Connection can be kept alive indefinitely
+2018-01-24 20:24:50,148 [main] [org.apache.http.client.protocol.ResponseProcessCookies]-[DEBUG] Cookie accepted [__DAYU_PP="NnuUryQBabYUqvqizj2B2d90854d092e", version:0, domain:hero.i8wan.com, path:/, expiry:Thu Jun 10 07:59:59 CST 2021]
+2018-01-24 20:24:50,149 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 << "[0xe6][0xb4][0xbb][0xe5][0x8a][0xa8]</a><br/>[\n]"
+2018-01-24 20:24:50,149 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 << "*[0xe5][0xbd][0x93][0xe5][0x89][0x8d][0xe4][0xb8][0xba][0xe5][0xae][0x9d][0xe7][0x89][0xa9][0xe5][0x8f][0x8c][0xe5][0x80][0x8d][0xe7][0x8a][0xb6][0xe6][0x80][0x81][0xef][0xbc][0x8c][0xe9][0xa2][0x86][0xe5][0x8f][0x96][0xe6][0x97][0xb6][0xe5][0x8f][0xaf][0xe8][0x8e][0xb7][0xe5][0xbe][0x97][0xe5][0x8f][0x8c][0xe5][0x80][0x8d][0xe6][0x94][0xb6][0xe7][0x9b][0x8a]<br/>[\n]"
+2018-01-24 20:24:50,149 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 << "<b>[0xe7][0x8e][0x84][0xe5][0xa4][0xa9][0xe5][0xa1][0x94]</b>(Lv4)<br/>[\n]"
+2018-01-24 20:24:50,149 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 << "[0xe7][0xbb][0x8f][0xe9][0xaa][0x8c]:98/250<br/>[\n]"
+2018-01-24 20:24:50,149 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 << "<a href="g?k=kC8wJu24&amp;p=1&amp;aid=60&amp;rn=19081&amp;ts=1&amp;act=1">[0xe9][0xa2][0x86][0xe5][0x8f][0x96]845629[0xe7][0xbb][0x8f][0xe9][0xaa][0x8c]</a><br/>[\n]"
+2018-01-24 20:24:50,149 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 << "<b>[0xe7][0x82][0xbc][0xe4][0xb8][0xb9][0xe7][0x82][0x89]</b>(Lv4)<br/>[\n]"
+2018-01-24 20:24:50,149 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 << "[0xe7][0xbb][0x8f][0xe9][0xaa][0x8c]:44/250<br/>[\n]"
+2018-01-24 20:24:50,149 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 << "<a href="g?k=kC8wJu24&amp;p=1&amp;aid=60&amp;rn=19081&amp;ts=2&amp;act=1">[0xe9][0xa2][0x86][0xe5][0x8f][0x96]14300[0xe6][0xbd][0x9c][0xe8][0x83][0xbd]</a><br/>[\n]"
+2018-01-24 20:24:50,149 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 << "<b>[0xe6][0x91][0x87][0xe9][0x92][0xb1][0xe6][0xa0][0x91]</b>(Lv6)<br/>[\n]"
+2018-01-24 20:24:50,149 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 << "[0xe7][0xbb][0x8f][0xe9][0xaa][0x8c]:64/490<br/>[\n]"
+2018-01-24 20:24:50,149 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 << "<a href="g?k=kC8wJu24&amp;p=1&amp;aid=60&amp;rn=19081&amp;ts=3&amp;act=1">[0xe9][0xa2][0x86][0xe5][0x8f][0x96]55000[0xe9][0x93][0xb6][0xe7][0xa5][0xa8]</a>([0xe5][0xae][0x9d][0xe7][0x89][0xa9][0xe7][0xac][0xa6]x2)<br/>[\n]"
+2018-01-24 20:24:50,149 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 << "<b>[0xe5][0xb4][0x86][0xe5][0xb3][0x92][0xe5][0x8d][0xb0]</b>:<a href="g?k=kC8wJu24&amp;p=1&amp;aid=60&amp;rn=19081&amp;act=1&amp;ts=6">[0xe9][0xa2][0x86][0xe5][0x8f][0x96]</a>([0xe5][0xa5][0xb3][0xe5][0xa8][0xb2][0xe7][0x9f][0xb3]x36)<br/>[\n]"
+2018-01-24 20:24:50,150 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 << "</div>[\r][\n]"
+2018-01-24 20:24:50,150 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 << "<div id="game-footer">[\r][\n]"
+2018-01-24 20:24:50,150 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 << "<a href="g?k=kC8wJu24&amp;p=1&amp;aid=3&amp;rn=19081">[0xe8][0xbf][0x94][0xe5][0x9b][0x9e][0xe6][0xb8][0xb8][0xe6][0x88][0x8f]</a><br/>[\n]"
+2018-01-24 20:24:50,150 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 << "[0xe5][0xbd][0x93][0xe5][0x89][0x8d][0xe6][0x97][0xb6][0xe9][0x97][0xb4](20:24)<br/>[\n]"
+2018-01-24 20:24:50,150 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 << "</div>[\r][\n]"
+2018-01-24 20:24:50,150 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 << "</body>[\r][\n]"
+2018-01-24 20:24:50,150 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-194 << "</html>[\r][\n]"
+2018-01-24 20:24:50,150 [main] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Connection [id: 194][route: {}->http://hero.i8wan.com:80] can be kept alive indefinitely
+2018-01-24 20:24:50,151 [main] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Connection released: [id: 194][route: {}->http://hero.i8wan.com:80][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 20]
+2018-01-24 20:24:50,151 [main] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Connection manager is shutting down
+2018-01-24 20:24:50,151 [main] [org.apache.http.impl.conn.DefaultManagedHttpClientConnection]-[DEBUG] http-outgoing-194: Close connection
+2018-01-24 20:24:50,151 [main] [org.apache.http.impl.conn.DefaultManagedHttpClientConnection]-[DEBUG] http-outgoing-194: Close connection
+2018-01-24 20:24:50,151 [main] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Connection manager shut down
+2018-01-24 20:24:50,666 [main] [org.apache.http.client.protocol.RequestAddCookies]-[DEBUG] CookieSpec selected: best-match
+2018-01-24 20:24:50,666 [main] [org.apache.http.client.protocol.RequestAuthCache]-[DEBUG] Auth cache not set in the context
+2018-01-24 20:24:50,666 [main] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Connection request: [route: {}->http://hero.i8wan.com:80][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2018-01-24 20:24:50,666 [main] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Connection leased: [id: 195][route: {}->http://hero.i8wan.com:80][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2018-01-24 20:24:50,666 [main] [org.apache.http.impl.execchain.MainClientExec]-[DEBUG] Opening connection {}->http://hero.i8wan.com:80
+2018-01-24 20:24:50,667 [main] [org.apache.http.impl.conn.HttpClientConnectionOperator]-[DEBUG] Connecting to hero.i8wan.com/118.89.206.21:80
+2018-01-24 20:24:50,721 [main] [org.apache.http.impl.conn.HttpClientConnectionOperator]-[DEBUG] Connection established 192.168.0.102:50225<->118.89.206.21:80
+2018-01-24 20:24:50,721 [main] [org.apache.http.impl.execchain.MainClientExec]-[DEBUG] Executing request GET /x00/g?k=kC8wJu24&p=1&aid=60&rn=13164&ts=3&act=1 HTTP/1.1
+2018-01-24 20:24:50,721 [main] [org.apache.http.impl.execchain.MainClientExec]-[DEBUG] Target auth state: UNCHALLENGED
+2018-01-24 20:24:50,721 [main] [org.apache.http.impl.execchain.MainClientExec]-[DEBUG] Proxy auth state: UNCHALLENGED
+2018-01-24 20:24:50,721 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-195 >> GET /x00/g?k=kC8wJu24&p=1&aid=60&rn=13164&ts=3&act=1 HTTP/1.1
+2018-01-24 20:24:50,721 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-195 >> Host: hero.i8wan.com
+2018-01-24 20:24:50,721 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-195 >> Connection: Keep-Alive
+2018-01-24 20:24:50,721 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-195 >> User-Agent: Apache-HttpClient/4.3.5 (java 1.5)
+2018-01-24 20:24:50,722 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-195 >> Accept-Encoding: gzip,deflate
+2018-01-24 20:24:50,722 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 >> "GET /x00/g?k=kC8wJu24&p=1&aid=60&rn=13164&ts=3&act=1 HTTP/1.1[\r][\n]"
+2018-01-24 20:24:50,722 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 >> "Host: hero.i8wan.com[\r][\n]"
+2018-01-24 20:24:50,722 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 >> "Connection: Keep-Alive[\r][\n]"
+2018-01-24 20:24:50,722 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 >> "User-Agent: Apache-HttpClient/4.3.5 (java 1.5)[\r][\n]"
+2018-01-24 20:24:50,722 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2018-01-24 20:24:50,722 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 >> "[\r][\n]"
+2018-01-24 20:24:50,786 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 << "HTTP/1.1 200 OK[\r][\n]"
+2018-01-24 20:24:50,787 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 << "X-Proxy: dayu-proxy[\r][\n]"
+2018-01-24 20:24:50,787 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 << "Date: Wed, 24 Jan 2018 12:24:50 GMT[\r][\n]"
+2018-01-24 20:24:50,787 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 << "Content-Type: application/xhtml+xml;charset=utf-8[\r][\n]"
+2018-01-24 20:24:50,787 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 << "Content-Length: 1877[\r][\n]"
+2018-01-24 20:24:50,787 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 << "X-DAYU-UUID: D7PRB23C2F1710F4498AACCADB0A68151471[\r][\n]"
+2018-01-24 20:24:50,787 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 << "Connection: keep-alive[\r][\n]"
+2018-01-24 20:24:50,787 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 << "Set-Cookie: __DAYU_PP=qZFuzFFAbBmarvyF6rIr2d90854d9eac; Expires=Wed, 09 Jun 2021 23:59:59 GMT; Path=/[\r][\n]"
+2018-01-24 20:24:50,787 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 << "Pragma: No-cache[\r][\n]"
+2018-01-24 20:24:50,787 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 << "Cache-Control: no-cache, no-store[\r][\n]"
+2018-01-24 20:24:50,787 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 << "Expires: Thu, 01 Jan 1970 00:00:00 GMT[\r][\n]"
+2018-01-24 20:24:50,787 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 << "[\r][\n]"
+2018-01-24 20:24:50,787 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 << "<?xml version="1.0" encoding="UTF-8"?>[\r][\n]"
+2018-01-24 20:24:50,787 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 << "<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">[\r][\n]"
+2018-01-24 20:24:50,787 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 << "<html xmlns="http://www.w3.org/1999/xhtml">[\r][\n]"
+2018-01-24 20:24:50,787 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 << "<head>[\r][\n]"
+2018-01-24 20:24:50,788 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 << "<title>[0xe8][0x8b][0xb1][0xe9][0x9b][0x84]</title>[\r][\n]"
+2018-01-24 20:24:50,788 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 << "<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>[\r][\n]"
+2018-01-24 20:24:50,788 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 << "<meta name="viewport" content="width=device-width; initial-scale=1.0; minimum-scale=1.0; maximum-scale=2.0"/>[\r][\n]"
+2018-01-24 20:24:50,788 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 << "<meta name="MobileOptimized" content="240"/>[\r][\n]"
+2018-01-24 20:24:50,788 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 << "<meta name="format-detection" content="telephone=no" />[\r][\n]"
+2018-01-24 20:24:50,788 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 << "<link href="http://122.152.203.88:8070/entry/css/xkx.css" type="text/css" rel="stylesheet"/>[\r][\n]"
+2018-01-24 20:24:50,788 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 << "</head>[\r][\n]"
+2018-01-24 20:24:50,788 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 << "<body>[\r][\n]"
+2018-01-24 20:24:50,788 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 << "<div id="game-title">[\r][\n]"
+2018-01-24 20:24:50,788 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 << "[0xe5][0xae][0x9d][0xe7][0x89][0xa9]<br/></div>[\r][\n]"
+2018-01-24 20:24:50,788 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 << "<div id="game-body">[\r][\n]"
+2018-01-24 20:24:50,788 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 << "<a href="g?k=kC8wJu24&amp;p=1&amp;aid=95&amp;rn=14183">[0xe6][0xb6][0x88]1</a> <a href="g?k=kC8wJu24&amp;p=1&amp;aid=90&amp;rn=14183">[0xe4][0xbd][0x93]</a> <a href="g?k=kC8wJu24&amp;p=1&amp;aid=41&amp;rn=14183">[0xe6][0xb4][0xbb]1</a><br/>[\n]"
+2018-01-24 20:24:50,788 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 << "<b>*[0xe9][0x93][0xb6][0xe7][0xa5][0xa8]+110000</b><br/>[\n]"
+2018-01-24 20:24:50,788 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 << "<b>*[0xe6][0x91][0x87][0xe9][0x92][0xb1][0xe6][0xa0][0x91][0xe7][0xbb][0x8f][0xe9][0xaa][0x8c]+2</b><br/>[\n]"
+2018-01-24 20:24:50,788 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 << "<a href="g?k=kC8wJu24&amp;p=1&amp;aid=55&amp;rn=14183">[0xe4][0xbb][0xbb][0xe5][0x8a][0xa1]</a> | <a href="g?k=kC8wJu24&amp;p=1&amp;aid=62&amp;rn=14183">[0xe4][0xbf][0xae][0xe7][0x82][0xbc]</a> | [0xe5][0xae][0x9d][0xe7][0x89][0xa9] | <a href="g?k=kC8wJu24&amp;p=1&amp;aid=800&amp;rn=14183">"
+2018-01-24 20:24:50,789 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-195 << HTTP/1.1 200 OK
+2018-01-24 20:24:50,789 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-195 << X-Proxy: dayu-proxy
+2018-01-24 20:24:50,789 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-195 << Date: Wed, 24 Jan 2018 12:24:50 GMT
+2018-01-24 20:24:50,789 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-195 << Content-Type: application/xhtml+xml;charset=utf-8
+2018-01-24 20:24:50,789 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-195 << Content-Length: 1877
+2018-01-24 20:24:50,789 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-195 << X-DAYU-UUID: D7PRB23C2F1710F4498AACCADB0A68151471
+2018-01-24 20:24:50,789 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-195 << Connection: keep-alive
+2018-01-24 20:24:50,790 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-195 << Set-Cookie: __DAYU_PP=qZFuzFFAbBmarvyF6rIr2d90854d9eac; Expires=Wed, 09 Jun 2021 23:59:59 GMT; Path=/
+2018-01-24 20:24:50,790 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-195 << Pragma: No-cache
+2018-01-24 20:24:50,790 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-195 << Cache-Control: no-cache, no-store
+2018-01-24 20:24:50,790 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-195 << Expires: Thu, 01 Jan 1970 00:00:00 GMT
+2018-01-24 20:24:50,790 [main] [org.apache.http.impl.execchain.MainClientExec]-[DEBUG] Connection can be kept alive indefinitely
+2018-01-24 20:24:50,791 [main] [org.apache.http.client.protocol.ResponseProcessCookies]-[DEBUG] Cookie accepted [__DAYU_PP="qZFuzFFAbBmarvyF6rIr2d90854d9eac", version:0, domain:hero.i8wan.com, path:/, expiry:Thu Jun 10 07:59:59 CST 2021]
+2018-01-24 20:24:50,791 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 << "[0xe6][0xb4][0xbb][0xe5][0x8a][0xa8]</a><br/>[\n]"
+2018-01-24 20:24:50,791 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 << "*[0xe5][0xbd][0x93][0xe5][0x89][0x8d][0xe4][0xb8][0xba][0xe5][0xae][0x9d][0xe7][0x89][0xa9][0xe5][0x8f][0x8c][0xe5][0x80][0x8d][0xe7][0x8a][0xb6][0xe6][0x80][0x81][0xef][0xbc][0x8c][0xe9][0xa2][0x86][0xe5][0x8f][0x96][0xe6][0x97][0xb6][0xe5][0x8f][0xaf][0xe8][0x8e][0xb7][0xe5][0xbe][0x97][0xe5][0x8f][0x8c][0xe5][0x80][0x8d][0xe6][0x94][0xb6][0xe7][0x9b][0x8a]<br/>[\n]"
+2018-01-24 20:24:50,791 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 << "<b>[0xe7][0x8e][0x84][0xe5][0xa4][0xa9][0xe5][0xa1][0x94]</b>(Lv4)<br/>[\n]"
+2018-01-24 20:24:50,791 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 << "[0xe7][0xbb][0x8f][0xe9][0xaa][0x8c]:98/250<br/>[\n]"
+2018-01-24 20:24:50,791 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 << "<a href="g?k=kC8wJu24&amp;p=1&amp;aid=60&amp;rn=14183&amp;ts=1&amp;act=1">[0xe9][0xa2][0x86][0xe5][0x8f][0x96]845629[0xe7][0xbb][0x8f][0xe9][0xaa][0x8c]</a><br/>[\n]"
+2018-01-24 20:24:50,791 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 << "<b>[0xe7][0x82][0xbc][0xe4][0xb8][0xb9][0xe7][0x82][0x89]</b>(Lv4)<br/>[\n]"
+2018-01-24 20:24:50,791 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 << "[0xe7][0xbb][0x8f][0xe9][0xaa][0x8c]:44/250<br/>[\n]"
+2018-01-24 20:24:50,791 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 << "<a href="g?k=kC8wJu24&amp;p=1&amp;aid=60&amp;rn=14183&amp;ts=2&amp;act=1">[0xe9][0xa2][0x86][0xe5][0x8f][0x96]14300[0xe6][0xbd][0x9c][0xe8][0x83][0xbd]</a><br/>[\n]"
+2018-01-24 20:24:50,791 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 << "<b>[0xe6][0x91][0x87][0xe9][0x92][0xb1][0xe6][0xa0][0x91]</b>(Lv6)<br/>[\n]"
+2018-01-24 20:24:50,791 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 << "[0xe7][0xbb][0x8f][0xe9][0xaa][0x8c]:66/490<br/>[\n]"
+2018-01-24 20:24:50,791 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 << "[0xe4][0xbb][0x8a][0xe6][0x97][0xa5][0xe9][0xa2][0x86][0xe5][0x8f][0x96][0xe6][0xac][0xa1][0xe6][0x95][0xb0][0xe5][0xb7][0xb2][0xe6][0xbb][0xa1]<br/>[\n]"
+2018-01-24 20:24:50,792 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 << "<b>[0xe5][0xb4][0x86][0xe5][0xb3][0x92][0xe5][0x8d][0xb0]</b>:<a href="g?k=kC8wJu24&amp;p=1&amp;aid=60&amp;rn=14183&amp;act=1&amp;ts=6">[0xe9][0xa2][0x86][0xe5][0x8f][0x96]</a>([0xe5][0xa5][0xb3][0xe5][0xa8][0xb2][0xe7][0x9f][0xb3]x36)<br/>[\n]"
+2018-01-24 20:24:50,792 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 << "</div>[\r][\n]"
+2018-01-24 20:24:50,792 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 << "<div id="game-footer">[\r][\n]"
+2018-01-24 20:24:50,792 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 << "<a href="g?k=kC8wJu24&amp;p=1&amp;aid=3&amp;rn=14183">[0xe8][0xbf][0x94][0xe5][0x9b][0x9e][0xe6][0xb8][0xb8][0xe6][0x88][0x8f]</a><br/>[\n]"
+2018-01-24 20:24:50,792 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 << "[0xe5][0xbd][0x93][0xe5][0x89][0x8d][0xe6][0x97][0xb6][0xe9][0x97][0xb4](20:24)<br/>[\n]"
+2018-01-24 20:24:50,792 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 << "</div>[\r][\n]"
+2018-01-24 20:24:50,792 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 << "</body>[\r][\n]"
+2018-01-24 20:24:50,792 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-195 << "</html>[\r][\n]"
+2018-01-24 20:24:50,792 [main] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Connection [id: 195][route: {}->http://hero.i8wan.com:80] can be kept alive indefinitely
+2018-01-24 20:24:50,792 [main] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Connection released: [id: 195][route: {}->http://hero.i8wan.com:80][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 20]
+2018-01-24 20:24:50,792 [main] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Connection manager is shutting down
+2018-01-24 20:24:50,792 [main] [org.apache.http.impl.conn.DefaultManagedHttpClientConnection]-[DEBUG] http-outgoing-195: Close connection
+2018-01-24 20:24:50,793 [main] [org.apache.http.impl.conn.DefaultManagedHttpClientConnection]-[DEBUG] http-outgoing-195: Close connection
+2018-01-24 20:24:50,793 [main] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Connection manager shut down
+2018-01-24 20:24:51,312 [main] [org.apache.http.client.protocol.RequestAddCookies]-[DEBUG] CookieSpec selected: best-match
+2018-01-24 20:24:51,312 [main] [org.apache.http.client.protocol.RequestAuthCache]-[DEBUG] Auth cache not set in the context
+2018-01-24 20:24:51,312 [main] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Connection request: [route: {}->http://hero.i8wan.com:80][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2018-01-24 20:24:51,313 [main] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Connection leased: [id: 196][route: {}->http://hero.i8wan.com:80][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2018-01-24 20:24:51,313 [main] [org.apache.http.impl.execchain.MainClientExec]-[DEBUG] Opening connection {}->http://hero.i8wan.com:80
+2018-01-24 20:24:51,313 [main] [org.apache.http.impl.conn.HttpClientConnectionOperator]-[DEBUG] Connecting to hero.i8wan.com/118.89.206.21:80
+2018-01-24 20:24:51,371 [main] [org.apache.http.impl.conn.HttpClientConnectionOperator]-[DEBUG] Connection established 192.168.0.102:50226<->118.89.206.21:80
+2018-01-24 20:24:51,371 [main] [org.apache.http.impl.execchain.MainClientExec]-[DEBUG] Executing request GET /x00/g?k=kC8wJu24&p=1&aid=41&rn=17409&clm=1 HTTP/1.1
+2018-01-24 20:24:51,371 [main] [org.apache.http.impl.execchain.MainClientExec]-[DEBUG] Target auth state: UNCHALLENGED
+2018-01-24 20:24:51,371 [main] [org.apache.http.impl.execchain.MainClientExec]-[DEBUG] Proxy auth state: UNCHALLENGED
+2018-01-24 20:24:51,371 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-196 >> GET /x00/g?k=kC8wJu24&p=1&aid=41&rn=17409&clm=1 HTTP/1.1
+2018-01-24 20:24:51,372 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-196 >> Host: hero.i8wan.com
+2018-01-24 20:24:51,372 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-196 >> Connection: Keep-Alive
+2018-01-24 20:24:51,372 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-196 >> User-Agent: Apache-HttpClient/4.3.5 (java 1.5)
+2018-01-24 20:24:51,372 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-196 >> Accept-Encoding: gzip,deflate
+2018-01-24 20:24:51,372 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 >> "GET /x00/g?k=kC8wJu24&p=1&aid=41&rn=17409&clm=1 HTTP/1.1[\r][\n]"
+2018-01-24 20:24:51,372 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 >> "Host: hero.i8wan.com[\r][\n]"
+2018-01-24 20:24:51,372 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 >> "Connection: Keep-Alive[\r][\n]"
+2018-01-24 20:24:51,372 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 >> "User-Agent: Apache-HttpClient/4.3.5 (java 1.5)[\r][\n]"
+2018-01-24 20:24:51,372 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2018-01-24 20:24:51,372 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 >> "[\r][\n]"
+2018-01-24 20:24:51,440 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 << "HTTP/1.1 200 OK[\r][\n]"
+2018-01-24 20:24:51,440 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 << "X-Proxy: dayu-proxy[\r][\n]"
+2018-01-24 20:24:51,440 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 << "Date: Wed, 24 Jan 2018 12:24:51 GMT[\r][\n]"
+2018-01-24 20:24:51,440 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 << "Content-Type: application/xhtml+xml;charset=utf-8[\r][\n]"
+2018-01-24 20:24:51,441 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 << "Content-Length: 1685[\r][\n]"
+2018-01-24 20:24:51,441 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 << "X-DAYU-UUID: D7PR3326BAF571B44A0DBB64F6B2EB6C76EE[\r][\n]"
+2018-01-24 20:24:51,441 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 << "Connection: keep-alive[\r][\n]"
+2018-01-24 20:24:51,441 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 << "Set-Cookie: __DAYU_PP=mnEAvFARfnzUzu7qYzYm2d90854da6af; Expires=Wed, 09 Jun 2021 23:59:59 GMT; Path=/[\r][\n]"
+2018-01-24 20:24:51,441 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 << "Pragma: No-cache[\r][\n]"
+2018-01-24 20:24:51,441 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 << "Cache-Control: no-cache, no-store[\r][\n]"
+2018-01-24 20:24:51,441 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 << "Expires: Thu, 01 Jan 1970 00:00:00 GMT[\r][\n]"
+2018-01-24 20:24:51,441 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 << "[\r][\n]"
+2018-01-24 20:24:51,441 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 << "<?xml version="1.0" encoding="UTF-8"?>[\r][\n]"
+2018-01-24 20:24:51,441 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 << "<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">[\r][\n]"
+2018-01-24 20:24:51,441 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 << "<html xmlns="http://www.w3.org/1999/xhtml">[\r][\n]"
+2018-01-24 20:24:51,441 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 << "<head>[\r][\n]"
+2018-01-24 20:24:51,441 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 << "<title>[0xe8][0x8b][0xb1][0xe9][0x9b][0x84]</title>[\r][\n]"
+2018-01-24 20:24:51,441 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 << "<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>[\r][\n]"
+2018-01-24 20:24:51,441 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 << "<meta name="viewport" content="width=device-width; initial-scale=1.0; minimum-scale=1.0; maximum-scale=2.0"/>[\r][\n]"
+2018-01-24 20:24:51,441 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 << "<meta name="MobileOptimized" content="240"/>[\r][\n]"
+2018-01-24 20:24:51,441 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 << "<meta name="format-detection" content="telephone=no" />[\r][\n]"
+2018-01-24 20:24:51,442 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 << "<link href="http://122.152.203.88:8070/entry/css/xkx.css" type="text/css" rel="stylesheet"/>[\r][\n]"
+2018-01-24 20:24:51,442 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 << "</head>[\r][\n]"
+2018-01-24 20:24:51,442 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 << "<body>[\r][\n]"
+2018-01-24 20:24:51,442 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 << "<div id="game-title">[\r][\n]"
+2018-01-24 20:24:51,442 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 << "[0xe6][0xb4][0xbb][0xe8][0xb7][0x83]<br/></div>[\r][\n]"
+2018-01-24 20:24:51,442 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 << "<div id="game-body">[\r][\n]"
+2018-01-24 20:24:51,442 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 << "<a href="g?k=kC8wJu24&amp;p=1&amp;aid=95&amp;rn=10785">[0xe6][0xb6][0x88]1</a> <a href="g?k=kC8wJu24&amp;p=1&amp;aid=90&amp;rn=10785">[0xe4][0xbd][0x93]</a> <a href="g?k=kC8wJu24&amp;p=1&amp;aid=60&amp;rn=10785">[0xe5][0xae][0x9d]5</a><br/>[\n]"
+2018-01-24 20:24:51,442 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 << "*[0xe4][0xbd][0xa0][0xe5][0xbe][0x97][0xe5][0x88][0xb0][0xe5][0xa5][0xb3][0xe5][0xa8][0xb2][0xe7][0x9f][0xb3]x1<br/>[\n]"
+2018-01-24 20:24:51,442 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 << "*[0xe4][0xbd][0xa0][0xe5][0xbe][0x97][0xe5][0x88][0xb0][0xe5][0xae][0x88][0xe6][0x8a][0xa4][0xe7][0xac][0xa6](2[0xe5][0xb0][0x8f][0xe6][0x97][0xb6])([0xe7][0xbb][0x91])x1<br/>[\n]"
+2018-01-24 20:24:51,442 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 << "[0xe4][0xbb][0x8a][0xe6][0x97][0xa5][0xe7][0x9a][0x84][0xe6][0xb4][0xbb][0xe8][0xb7][0x83][0xe7][0x82][0xb9][0xe6][0x95][0xb0][0xe4][0xb8][0xba]:20<br/>[\n]"
+2018-01-24 20:24:51,442 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 << "[0xe6][0xb4][0xbb][0xe8][0xb7][0x83][0xe8][0xbe][0xbe][0xe5][0x88][0xb0]20[0xe5][0x8f][0xaf][0xe4][0xbb][0xa5][0xe9][0xa2][0x86][0xe5][0x8f][0x96][0xe4][0xb8][0x8b][0xe5][0x88][0x97][0xe7][0x89][0xa9][0xe5][0x93][0x81]:<br/>[\n]"
+2018-01-24 20:24:51,443 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 << "*[0xe5][0xa5][0xb3][0xe5][0xa8][0xb2][0xe7][0x9f][0xb3]x1<br/>[\n]"
+2018-01-24 20:24:51,443 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 << "<a href="g?k=kC8wJu24&amp;p=1&amp;aid=41&amp;rn=10785&amp;clm=1">[0xe7][0xab][0x8b][0xe5][0x8d][0xb3][0xe9][0xa2][0x86][0xe5][0x8f][0x96]</a><br/>[\n]"
+2018-01-24 20:24:51,443 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 << "<hr/>[0xe6][0xaf][0x8f]"
+2018-01-24 20:24:51,443 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-196 << HTTP/1.1 200 OK
+2018-01-24 20:24:51,443 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-196 << X-Proxy: dayu-proxy
+2018-01-24 20:24:51,443 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-196 << Date: Wed, 24 Jan 2018 12:24:51 GMT
+2018-01-24 20:24:51,443 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-196 << Content-Type: application/xhtml+xml;charset=utf-8
+2018-01-24 20:24:51,443 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-196 << Content-Length: 1685
+2018-01-24 20:24:51,443 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-196 << X-DAYU-UUID: D7PR3326BAF571B44A0DBB64F6B2EB6C76EE
+2018-01-24 20:24:51,443 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-196 << Connection: keep-alive
+2018-01-24 20:24:51,443 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-196 << Set-Cookie: __DAYU_PP=mnEAvFARfnzUzu7qYzYm2d90854da6af; Expires=Wed, 09 Jun 2021 23:59:59 GMT; Path=/
+2018-01-24 20:24:51,443 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-196 << Pragma: No-cache
+2018-01-24 20:24:51,443 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-196 << Cache-Control: no-cache, no-store
+2018-01-24 20:24:51,443 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-196 << Expires: Thu, 01 Jan 1970 00:00:00 GMT
+2018-01-24 20:24:51,444 [main] [org.apache.http.impl.execchain.MainClientExec]-[DEBUG] Connection can be kept alive indefinitely
+2018-01-24 20:24:51,444 [main] [org.apache.http.client.protocol.ResponseProcessCookies]-[DEBUG] Cookie accepted [__DAYU_PP="mnEAvFARfnzUzu7qYzYm2d90854da6af", version:0, domain:hero.i8wan.com, path:/, expiry:Thu Jun 10 07:59:59 CST 2021]
+2018-01-24 20:24:51,445 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 << "[0xe5][0xae][0x8c][0xe6][0x88][0x90][0xe4][0xb8][0x8b][0xe5][0x88][0x97][0xe4][0xbb][0xbb][0xe5][0x8a][0xa1][0xe4][0xb9][0x8b][0xe4][0xb8][0x80][0xe5][0x8f][0xaf][0xe5][0xbe][0x97]10[0xe7][0x82][0xb9][0xe6][0xb4][0xbb][0xe8][0xb7][0x83]<br/>[\n]"
+2018-01-24 20:24:51,445 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 << "*[0xe7][0x99][0xbb][0xe5][0xbd][0x95][0xe6][0xb8][0xb8][0xe6][0x88][0x8f]:<b>[0xe5][0xb7][0xb2][0xe5][0xae][0x8c][0xe6][0x88][0x90]</b><br/>[\n]"
+2018-01-24 20:24:51,445 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 << "*[0xe9][0xa2][0x86][0xe5][0x8f][0x96][0xe5][0xae][0x9d][0xe7][0x89][0xa9][0xe5][0xa5][0x96][0xe5][0x8a][0xb1]:<b>[0xe5][0xb7][0xb2][0xe5][0xae][0x8c][0xe6][0x88][0x90]</b><br/>[\n]"
+2018-01-24 20:24:51,445 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 << "*[0xe9][0xa2][0x86][0xe5][0x8f][0x96][0xe4][0xbf][0xae][0xe7][0x82][0xbc][0xe5][0xa5][0x96][0xe5][0x8a][0xb1]:0/1<br/>[\n]"
+2018-01-24 20:24:51,445 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 << "*[0xe5][0xb8][0xae][0xe5][0x85][0xb6][0xe4][0xbb][0x96][0xe7][0x8e][0xa9][0xe5][0xae][0xb6][0xe5][0x8a][0xa9][0xe7][0x82][0xbc]:0/5<br/>[\n]"
+2018-01-24 20:24:51,445 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 << "*[0xe6][0x8c][0x91][0xe6][0x88][0x98][0xe7][0x8e][0xa9][0xe5][0xae][0xb6]:0/5<br/>[\n]"
+2018-01-24 20:24:51,445 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 << "*[0xe5][0xbc][0xba][0xe5][0x8c][0x96][0xe8][0xa3][0x85][0xe5][0xa4][0x87]:0/5<br/>[\n]"
+2018-01-24 20:24:51,445 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 << "*[0xe5][0x9c][0xa8][0xe7][0xba][0xbf][0xe6][0x97][0xb6][0xe9][0x97][0xb4][0xe8][0xb6][0x85][0xe8][0xbf][0x87]30[0xe5][0x88][0x86][0xe9][0x92][0x9f]:5/30<br/>[\n]"
+2018-01-24 20:24:51,445 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 << "*[0xe5][0x92][0x8c][0xe5][0x85][0xb6][0xe4][0xbb][0x96][0xe7][0x8e][0xa9][0xe5][0xae][0xb6][0xe4][0xba][0x92][0xe5][0x8a][0xa8]:0/2<br/>[\n]"
+2018-01-24 20:24:51,445 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 << "</div>[\r][\n]"
+2018-01-24 20:24:51,445 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 << "<div id="game-footer">[\r][\n]"
+2018-01-24 20:24:51,445 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 << "<a href="g?k=kC8wJu24&amp;p=1&amp;aid=800&amp;rn=10785">[0xe8][0xbf][0x94][0xe5][0x9b][0x9e][0xe4][0xb8][0x8a][0xe4][0xb8][0x80][0xe7][0xba][0xa7]</a><br/>[\n]"
+2018-01-24 20:24:51,445 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 << "<a href="g?k=kC8wJu24&amp;p=1&amp;aid=3&amp;rn=10785">[0xe8][0xbf][0x94][0xe5][0x9b][0x9e][0xe6][0xb8][0xb8][0xe6][0x88][0x8f]</a><br/>[\n]"
+2018-01-24 20:24:51,445 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 << "[0xe5][0xbd][0x93][0xe5][0x89][0x8d][0xe6][0x97][0xb6][0xe9][0x97][0xb4](20:24)<br/>[\n]"
+2018-01-24 20:24:51,446 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 << "</div>[\r][\n]"
+2018-01-24 20:24:51,446 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 << "</body>[\r][\n]"
+2018-01-24 20:24:51,446 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-196 << "</html>[\r][\n]"
+2018-01-24 20:24:51,446 [main] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Connection [id: 196][route: {}->http://hero.i8wan.com:80] can be kept alive indefinitely
+2018-01-24 20:24:51,446 [main] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Connection released: [id: 196][route: {}->http://hero.i8wan.com:80][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 20]
+2018-01-24 20:24:51,446 [main] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Connection manager is shutting down
+2018-01-24 20:24:51,446 [main] [org.apache.http.impl.conn.DefaultManagedHttpClientConnection]-[DEBUG] http-outgoing-196: Close connection
+2018-01-24 20:24:51,447 [main] [org.apache.http.impl.conn.DefaultManagedHttpClientConnection]-[DEBUG] http-outgoing-196: Close connection
+2018-01-24 20:24:51,447 [main] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Connection manager shut down
+2018-01-24 20:24:51,967 [main] [org.apache.http.client.protocol.RequestAddCookies]-[DEBUG] CookieSpec selected: best-match
+2018-01-24 20:24:51,967 [main] [org.apache.http.client.protocol.RequestAuthCache]-[DEBUG] Auth cache not set in the context
+2018-01-24 20:24:51,967 [main] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Connection request: [route: {}->http://hero.i8wan.com:80][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2018-01-24 20:24:51,968 [main] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Connection leased: [id: 197][route: {}->http://hero.i8wan.com:80][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2018-01-24 20:24:51,968 [main] [org.apache.http.impl.execchain.MainClientExec]-[DEBUG] Opening connection {}->http://hero.i8wan.com:80
+2018-01-24 20:24:51,968 [main] [org.apache.http.impl.conn.HttpClientConnectionOperator]-[DEBUG] Connecting to hero.i8wan.com/118.89.206.21:80
+2018-01-24 20:24:52,026 [main] [org.apache.http.impl.conn.HttpClientConnectionOperator]-[DEBUG] Connection established 192.168.0.102:50227<->118.89.206.21:80
+2018-01-24 20:24:52,026 [main] [org.apache.http.impl.execchain.MainClientExec]-[DEBUG] Executing request GET /x00/g?k=kC8wJu24&p=1&aid=41&rn=17409&clm=1 HTTP/1.1
+2018-01-24 20:24:52,026 [main] [org.apache.http.impl.execchain.MainClientExec]-[DEBUG] Target auth state: UNCHALLENGED
+2018-01-24 20:24:52,026 [main] [org.apache.http.impl.execchain.MainClientExec]-[DEBUG] Proxy auth state: UNCHALLENGED
+2018-01-24 20:24:52,026 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-197 >> GET /x00/g?k=kC8wJu24&p=1&aid=41&rn=17409&clm=1 HTTP/1.1
+2018-01-24 20:24:52,026 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-197 >> Host: hero.i8wan.com
+2018-01-24 20:24:52,027 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-197 >> Connection: Keep-Alive
+2018-01-24 20:24:52,027 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-197 >> User-Agent: Apache-HttpClient/4.3.5 (java 1.5)
+2018-01-24 20:24:52,027 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-197 >> Accept-Encoding: gzip,deflate
+2018-01-24 20:24:52,027 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 >> "GET /x00/g?k=kC8wJu24&p=1&aid=41&rn=17409&clm=1 HTTP/1.1[\r][\n]"
+2018-01-24 20:24:52,027 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 >> "Host: hero.i8wan.com[\r][\n]"
+2018-01-24 20:24:52,027 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 >> "Connection: Keep-Alive[\r][\n]"
+2018-01-24 20:24:52,027 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 >> "User-Agent: Apache-HttpClient/4.3.5 (java 1.5)[\r][\n]"
+2018-01-24 20:24:52,027 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2018-01-24 20:24:52,027 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 >> "[\r][\n]"
+2018-01-24 20:24:52,117 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 << "HTTP/1.1 200 OK[\r][\n]"
+2018-01-24 20:24:52,117 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 << "X-Proxy: dayu-proxy[\r][\n]"
+2018-01-24 20:24:52,117 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 << "Date: Wed, 24 Jan 2018 12:24:52 GMT[\r][\n]"
+2018-01-24 20:24:52,117 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 << "Content-Type: application/xhtml+xml;charset=utf-8[\r][\n]"
+2018-01-24 20:24:52,117 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 << "Content-Length: 1557[\r][\n]"
+2018-01-24 20:24:52,117 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 << "X-DAYU-UUID: D7PR543417C26E444406AA9B6B499A20D2C9[\r][\n]"
+2018-01-24 20:24:52,117 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 << "Connection: keep-alive[\r][\n]"
+2018-01-24 20:24:52,118 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 << "Set-Cookie: __DAYU_PP=urfb6JIme36EJ32mFyBR2d90854d9464; Expires=Wed, 09 Jun 2021 23:59:59 GMT; Path=/[\r][\n]"
+2018-01-24 20:24:52,118 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 << "Pragma: No-cache[\r][\n]"
+2018-01-24 20:24:52,118 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 << "Cache-Control: no-cache, no-store[\r][\n]"
+2018-01-24 20:24:52,118 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 << "Expires: Thu, 01 Jan 1970 00:00:00 GMT[\r][\n]"
+2018-01-24 20:24:52,118 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 << "[\r][\n]"
+2018-01-24 20:24:52,118 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 << "<?xml version="1.0" encoding="UTF-8"?>[\r][\n]"
+2018-01-24 20:24:52,118 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 << "<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">[\r][\n]"
+2018-01-24 20:24:52,118 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 << "<html xmlns="http://www.w3.org/1999/xhtml">[\r][\n]"
+2018-01-24 20:24:52,118 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 << "<head>[\r][\n]"
+2018-01-24 20:24:52,118 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 << "<title>[0xe8][0x8b][0xb1][0xe9][0x9b][0x84]</title>[\r][\n]"
+2018-01-24 20:24:52,118 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 << "<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>[\r][\n]"
+2018-01-24 20:24:52,118 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 << "<meta name="viewport" content="width=device-width; initial-scale=1.0; minimum-scale=1.0; maximum-scale=2.0"/>[\r][\n]"
+2018-01-24 20:24:52,118 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 << "<meta name="MobileOptimized" content="240"/>[\r][\n]"
+2018-01-24 20:24:52,119 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 << "<meta name="format-detection" content="telephone=no" />[\r][\n]"
+2018-01-24 20:24:52,119 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 << "<link href="http://122.152.203.88:8070/entry/css/xkx.css" type="text/css" rel="stylesheet"/>[\r][\n]"
+2018-01-24 20:24:52,119 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 << "</head>[\r][\n]"
+2018-01-24 20:24:52,119 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 << "<body>[\r][\n]"
+2018-01-24 20:24:52,119 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 << "<div id="game-title">[\r][\n]"
+2018-01-24 20:24:52,119 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 << "[0xe6][0xb4][0xbb][0xe8][0xb7][0x83]<br/></div>[\r][\n]"
+2018-01-24 20:24:52,119 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 << "<div id="game-body">[\r][\n]"
+2018-01-24 20:24:52,119 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 << "<a href="g?k=kC8wJu24&amp;p=1&amp;aid=95&amp;rn=13471">[0xe6][0xb6][0x88]1</a> <a href="g?k=kC8wJu24&amp;p=1&amp;aid=90&amp;rn=13471">[0xe4][0xbd][0x93]</a> <a href="g?k=kC8wJu24&amp;p=1&amp;aid=60&amp;rn=13471">[0xe5][0xae][0x9d]5</a><br/>[\n]"
+2018-01-24 20:24:52,119 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 << "*[0xe4][0xbd][0xa0][0xe5][0xbe][0x97][0xe5][0x88][0xb0][0xe5][0xa5][0xb3][0xe5][0xa8][0xb2][0xe7][0x9f][0xb3]x1<br/>[\n]"
+2018-01-24 20:24:52,119 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 << "[0xe4][0xbb][0x8a][0xe6][0x97][0xa5][0xe7][0x9a][0x84][0xe6][0xb4][0xbb][0xe8][0xb7][0x83][0xe7][0x82][0xb9][0xe6][0x95][0xb0][0xe4][0xb8][0xba]:20<br/>[\n]"
+2018-01-24 20:24:52,119 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 << "[0xe6][0xb4][0xbb][0xe8][0xb7][0x83][0xe8][0xbe][0xbe][0xe5][0x88][0xb0]50[0xe5][0x8f][0xaf][0xe4][0xbb][0xa5][0xe9][0xa2][0x86][0xe5][0x8f][0x96][0xe4][0xb8][0x8b][0xe5][0x88][0x97][0xe7][0x89][0xa9][0xe5][0x93][0x81]:<br/>[\n]"
+2018-01-24 20:24:52,119 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 << "*[0xe5][0xa5][0xb3][0xe5][0xa8][0xb2][0xe7][0x9f][0xb3]x1<br/>[\n]"
+2018-01-24 20:24:52,119 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 << "<hr/>[0xe6][0xaf][0x8f][0xe5][0xae][0x8c][0xe6][0x88][0x90][0xe4][0xb8][0x8b][0xe5][0x88][0x97][0xe4][0xbb][0xbb][0xe5][0x8a][0xa1][0xe4][0xb9][0x8b][0xe4][0xb8][0x80][0xe5][0x8f][0xaf][0xe5][0xbe][0x97]10[0xe7][0x82][0xb9][0xe6][0xb4][0xbb][0xe8][0xb7][0x83]<br/>[\n]"
+2018-01-24 20:24:52,119 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 << "*[0xe7][0x99][0xbb][0xe5][0xbd][0x95][0xe6][0xb8][0xb8][0xe6][0x88][0x8f]:<b>[0xe5][0xb7][0xb2][0xe5][0xae][0x8c][0xe6][0x88][0x90]</b><br/>[\n]"
+2018-01-24 20:24:52,120 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 << "*[0xe9][0xa2][0x86][0xe5][0x8f][0x96][0xe5][0xae][0x9d][0xe7][0x89][0xa9][0xe5][0xa5][0x96][0xe5][0x8a][0xb1]:<b>[0xe5][0xb7][0xb2][0xe5][0xae][0x8c][0xe6][0x88][0x90]</b><br/>[\n]"
+2018-01-24 20:24:52,120 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 << "*[0xe9][0xa2][0x86][0xe5][0x8f][0x96][0xe4][0xbf][0xae][0xe7][0x82][0xbc][0xe5][0xa5][0x96][0xe5][0x8a][0xb1]:0/1<br/>[\n]"
+2018-01-24 20:24:52,120 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 << "*[0xe5][0xb8][0xae][0xe5][0x85][0xb6][0xe4][0xbb][0x96][0xe7][0x8e][0xa9][0xe5][0xae][0xb6][0xe5][0x8a][0xa9][0xe7][0x82][0xbc]:0/5<br/>[\n]"
+2018-01-24 20:24:52,120 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 << "*[0xe6][0x8c][0x91][0xe6][0x88][0x98][0xe7][0x8e][0xa9][0xe5][0xae][0xb6]:0/5<br/>[\n]"
+2018-01-24 20:24:52,120 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 << "*[0xe5][0xbc][0xba][0xe5][0x8c][0x96][0xe8][0xa3][0x85][0xe5][0xa4][0x87]:0/5<br/>[\n]"
+2018-01-24 20:24:52,120 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 << "*[0xe5][0x9c][0xa8][0xe7][0xba][0xbf][0xe6][0x97][0xb6][0xe9][0x97][0xb4][0xe8][0xb6][0x85][0xe8][0xbf][0x87]30[0xe5][0x88][0x86][0xe9][0x92][0x9f]:5/30<br/>[\n]"
+2018-01-24 20:24:52,120 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 << "*[0xe5][0x92][0x8c][0xe5][0x85][0xb6][0xe4][0xbb][0x96][0xe7][0x8e][0xa9][0xe5][0xae][0xb6][0xe4][0xba][0x92][0xe5][0x8a][0xa8]:0/2<br/>[\n]"
+2018-01-24 20:24:52,120 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 << "</div>[\r][\n]"
+2018-01-24 20:24:52,120 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 << "<div id="game-footer">[\r][\n]"
+2018-01-24 20:24:52,120 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 << "<a href="g?k=kC8wJu24&amp;p=1&amp;aid=800&amp;rn=13471">[0xe8][0xbf][0x94][0xe5][0x9b][0x9e][0xe4][0xb8][0x8a][0xe4][0xb8][0x80][0xe7][0xba][0xa7]</a><br/>[\n]"
+2018-01-24 20:24:52,120 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 << "<a href="g?k=kC8wJu24&amp;p=1&amp;aid=3&amp;rn=13471">[0xe8][0xbf][0x94][0xe5][0x9b][0x9e][0xe6][0xb8][0xb8][0xe6][0x88][0x8f]</a><br/>[\n]"
+2018-01-24 20:24:52,120 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 << "[0xe5][0xbd][0x93][0xe5][0x89][0x8d][0xe6][0x97][0xb6][0xe9][0x97][0xb4](20:24)<br/>[\n]"
+2018-01-24 20:24:52,120 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 << "</div>[\r][\n]"
+2018-01-24 20:24:52,120 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 << "</body>[\r][\n]"
+2018-01-24 20:24:52,120 [main] [org.apache.http.wire]-[DEBUG] http-outgoing-197 << "</html>[\r][\n]"
+2018-01-24 20:24:52,121 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-197 << HTTP/1.1 200 OK
+2018-01-24 20:24:52,121 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-197 << X-Proxy: dayu-proxy
+2018-01-24 20:24:52,121 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-197 << Date: Wed, 24 Jan 2018 12:24:52 GMT
+2018-01-24 20:24:52,121 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-197 << Content-Type: application/xhtml+xml;charset=utf-8
+2018-01-24 20:24:52,121 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-197 << Content-Length: 1557
+2018-01-24 20:24:52,121 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-197 << X-DAYU-UUID: D7PR543417C26E444406AA9B6B499A20D2C9
+2018-01-24 20:24:52,121 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-197 << Connection: keep-alive
+2018-01-24 20:24:52,121 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-197 << Set-Cookie: __DAYU_PP=urfb6JIme36EJ32mFyBR2d90854d9464; Expires=Wed, 09 Jun 2021 23:59:59 GMT; Path=/
+2018-01-24 20:24:52,121 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-197 << Pragma: No-cache
+2018-01-24 20:24:52,121 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-197 << Cache-Control: no-cache, no-store
+2018-01-24 20:24:52,121 [main] [org.apache.http.headers]-[DEBUG] http-outgoing-197 << Expires: Thu, 01 Jan 1970 00:00:00 GMT
+2018-01-24 20:24:52,121 [main] [org.apache.http.impl.execchain.MainClientExec]-[DEBUG] Connection can be kept alive indefinitely
+2018-01-24 20:24:52,122 [main] [org.apache.http.client.protocol.ResponseProcessCookies]-[DEBUG] Cookie accepted [__DAYU_PP="urfb6JIme36EJ32mFyBR2d90854d9464", version:0, domain:hero.i8wan.com, path:/, expiry:Thu Jun 10 07:59:59 CST 2021]
+2018-01-24 20:24:52,123 [main] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Connection [id: 197][route: {}->http://hero.i8wan.com:80] can be kept alive indefinitely
+2018-01-24 20:24:52,123 [main] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Connection released: [id: 197][route: {}->http://hero.i8wan.com:80][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 20]
+2018-01-24 20:24:52,123 [main] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Connection manager is shutting down
+2018-01-24 20:24:52,123 [main] [org.apache.http.impl.conn.DefaultManagedHttpClientConnection]-[DEBUG] http-outgoing-197: Close connection
+2018-01-24 20:24:52,124 [main] [org.apache.http.impl.conn.DefaultManagedHttpClientConnection]-[DEBUG] http-outgoing-197: Close connection
+2018-01-24 20:24:52,124 [main] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Connection manager shut down
